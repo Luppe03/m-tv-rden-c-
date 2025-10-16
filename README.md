@@ -4,7 +4,7 @@ STI
 Uppgift 1
 https://github.com/Luppe03/m-tv-rden-c-.git
 
-
+main.cpp - Huvudprogram med menyloop och användarinteraktion
 
 Datainsamling:
 * Kan skriva in valfritt antal mätvärden
