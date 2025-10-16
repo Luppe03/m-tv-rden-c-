@@ -2,6 +2,9 @@ Lukas Persson
 C++
 STI
 Uppgift 1
+https://github.com/Luppe03/m-tv-rden-c-.git
+
+
 
 Datainsamling:
 * Kan skriva in valfritt antal mätvärden
